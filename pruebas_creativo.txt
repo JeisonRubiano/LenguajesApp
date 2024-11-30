@@ -1,0 +1,17 @@
+entero y1#
+entero y1: valor#
+decimal w#
+decimal w: 14267#
+texto s#
+bandera verificar#
+ciclo [entero x: 0; x<9; x++]{}#
+ciclo [entero x: 0; x<9; x--]{
+entero y1#
+}#
+entero main []{retorno valor}#
+funcion vea []{}#
+vea []#
+mientras [x=y & y=x]{}# 
+sipi[x=y]{}#
+sipi[x<x]{}sinopi{}#
+intento{ }captura{ }#
